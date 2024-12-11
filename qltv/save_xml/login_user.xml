@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <login_user>
+    <user id="1">
+      <name_user>nguyen van bbvqq</name_user>
+      <email_user>a1@gmail.com</email_user>
+      <phone_user>0934545655</phone_user>
+    </user>
+    <user id="2">
+      <name_user>tran thi b</name_user>
+      <email_user>b2@gmail.com</email_user>
+      <phone_user>0987654321</phone_user>
+    </user>
+    <user id="3">
+      <name_user>le hoang c</name_user>
+      <email_user>c3@gmail.com</email_user>
+      <phone_user>0123456789</phone_user>
+    </user>
+    <user id="4">
+      <name_user>pham minh d</name_user>
+      <email_user>d4@gmail.com</email_user>
+      <phone_user>0987654321</phone_user>
+    </user>
+    <user id="5">
+      <name_user>vo thi e</name_user>
+      <email_user>e5@gmail.com</email_user>
+      <phone_user>0123123123</phone_user>
+    </user>
+    <user id="8">
+      <name_user>viet</name_user>
+      <email_user>aa@gmail.com</email_user>
+      <phone_user>099999</phone_user>
+    </user>
+    <user id="9">
+      <name_user>viet vl</name_user>
+      <email_user>l@gmail.com</email_user>
+      <phone_user>043343</phone_user>
+    </user>
+    <user id="10">
+      <name_user>viet</name_user>
+      <email_user>nguyenpho444544@gmail.com</email_user>
+      <phone_user>12345678</phone_user>
+    </user>
+    <user id="11">
+      <name_user>vietrrrrr</name_user>
+      <email_user>phamviet4334544@gmail.com</email_user>
+      <phone_user>0394816057</phone_user>
+    </user>
+  </login_user>
+</library>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Doctors>
+  <Doctor id="1">
+    <Name_Doctor>nguyen van </Name_Doctor>
+    <Department>khoa noi, khoa ngoai</Department>
+    <Phone_Doctor>123456789</Phone_Doctor>
+    <Email_Doctor>g1@gmail.com</Email_Doctor>
+  </Doctor>
+  <Doctor id="2">
+    <Name_Doctor>tran thi minh</Name_Doctor>
+    <Department>khoa nhi</Department>
+    <Phone_Doctor>987654321</Phone_Doctor>
+    <Email_Doctor>g2@gmail.com</Email_Doctor>
+  </Doctor>
+  <Doctor id="3">
+    <Name_Doctor>le hoang an</Name_Doctor>
+    <Department>khoa san, khoa tai mui hong</Department>
+    <Phone_Doctor>123456789</Phone_Doctor>
+    <Email_Doctor>g3@gmail.com</Email_Doctor>
+  </Doctor>
+  <Doctor id="4">
+    <Name_Doctor>pham quang hung</Name_Doctor>
+    <Department>khoa noi, khoa da lieu</Department>
+    <Phone_Doctor>987654321</Phone_Doctor>
+    <Email_Doctor>g4@gmail.com</Email_Doctor>
+  </Doctor>
+  <Doctor id="5">
+    <Name_Doctor>vo thanh tung</Name_Doctor>
+    <Department>khoa mat, khoa than kinh</Department>
+    <Phone_Doctor>981234567</Phone_Doctor>
+    <Email_Doctor>g5@gmail.com</Email_Doctor>
+  </Doctor>
+  <Doctor id="7">
+    <Name_Doctor>bb dc chua </Name_Doctor>
+    <Department>địt mẹ mày</Department>
+    <Phone_Doctor>12345</Phone_Doctor>
+    <Email_Doctor>s@gmail.com</Email_Doctor>
+  </Doctor>
+  <Doctor id="9">
+    <Name_Doctor>sssm</Name_Doctor>
+    <Department>khám mũi </Department>
+    <Phone_Doctor>1122333444</Phone_Doctor>
+    <Email_Doctor>km@gamil.com</Email_Doctor>
+  </Doctor>
+</Doctors>

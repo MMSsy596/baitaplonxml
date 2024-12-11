@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <personal_info>
+    <name>Nguyễn Văn A</name>
+    <address>Hà Nội, Việt Nam</address>
+    <email>nguyenvana@example.com</email>
+    <phone>0123456789</phone>
+    <position>Nhân viên marketing</position>
+    <date>24/01/2000</date>
+  </personal_info>
+  <education>
+    <degree>Bachelor's in Marketing</degree>
+    <school>Đại học XYZ</school>
+    <graduation_year>2020</graduation_year>
+  </education>
+  <experience>
+    <job_title>Nhân viên marketing</job_title>
+    <company>ABC Corp</company>
+    <duration>2 năm</duration>
+  </experience>
+</application>

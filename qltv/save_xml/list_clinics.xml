@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Clinics>
+  <Clinic id="1">
+    <Name_Clinic>1</Name_Clinic>
+    <Name_Doctor>nguyen van hiep</Name_Doctor>
+    <Department>khoa noi, khoa ngoai</Department>
+    <Email_Doctor/>
+    <Hospital_Bills>100000</Hospital_Bills>
+  </Clinic>
+  <Clinic id="2">
+    <Name_Clinic>h2</Name_Clinic>
+    <Name_Doctor>nguyen van hiep</Name_Doctor>
+    <Department>khoa noi, khoa ngoai</Department>
+    <Email_Doctor/>
+    <Hospital_Bills>852</Hospital_Bills>
+  </Clinic>
+  <Clinic id="3">
+    <Name_Clinic>h3</Name_Clinic>
+    <Name_Doctor>a</Name_Doctor>
+    <Department>a</Department>
+    <Email_Doctor/>
+    <Hospital_Bills>44444</Hospital_Bills>
+  </Clinic>
+  <Clinic id="4">
+    <Name_Clinic>3</Name_Clinic>
+    <Name_Doctor>s</Name_Doctor>
+    <Department>s</Department>
+    <Email_Doctor/>
+    <Hospital_Bills>1111</Hospital_Bills>
+  </Clinic>
+  <Clinic id="5">
+    <Name_Clinic>6</Name_Clinic>
+    <Name_Doctor>s</Name_Doctor>
+    <Department>s</Department>
+    <Email_Doctor/>
+    <Hospital_Bills>22222</Hospital_Bills>
+  </Clinic>
+  <Clinic id="6">
+    <Name_Clinic>3</Name_Clinic>
+    <Name_Doctor>s</Name_Doctor>
+    <Department>s</Department>
+    <Email_Doctor/>
+    <Hospital_Bills>333333</Hospital_Bills>
+  </Clinic>
+  <Clinic id="7">
+    <Name_Clinic>4</Name_Clinic>
+    <Name_Doctor>s</Name_Doctor>
+    <Department>s</Department>
+    <Email_Doctor/>
+    <Hospital_Bills>565</Hospital_Bills>
+  </Clinic>
+  <Clinic id="8">
+    <Name_Clinic>1</Name_Clinic>
+    <Name_Doctor>s</Name_Doctor>
+    <Department>s</Department>
+    <Email_Doctor/>
+    <Hospital_Bills>111111</Hospital_Bills>
+  </Clinic>
+  <Clinic id="9">
+    <Name_Clinic>8</Name_Clinic>
+    <Name_Doctor>s</Name_Doctor>
+    <Department>s</Department>
+    <Email_Doctor/>
+    <Hospital_Bills>234568000</Hospital_Bills>
+  </Clinic>
+  <Clinic id="11">
+    <Name_Clinic>10</Name_Clinic>
+    <Name_Doctor>sssa</Name_Doctor>
+    <Department>sádsds</Department>
+    <Email_Doctor>s@gmail.com</Email_Doctor>
+    <Hospital_Bills>2345</Hospital_Bills>
+  </Clinic>
+  <Clinic id="12">
+    <Name_Clinic>9</Name_Clinic>
+    <Name_Doctor>sssa</Name_Doctor>
+    <Department>sádsds</Department>
+    <Email_Doctor>s@gmail.com</Email_Doctor>
+    <Hospital_Bills>1234</Hospital_Bills>
+  </Clinic>
+  <Clinic id="13">
+    <Name_Clinic>Phòng 10</Name_Clinic>
+    <Name_Doctor>nguyen van hiepppww</Name_Doctor>
+    <Department>khoa noi, khoa ngoai</Department>
+    <Email_Doctor>g1@gmail.com</Email_Doctor>
+    <Hospital_Bills>5</Hospital_Bills>
+  </Clinic>
+</Clinics>

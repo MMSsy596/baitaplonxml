@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <login_user>
+        <login_users id_user="6">
+            <name_user>nguyen van ffffa</name_user>
+            <ermail_user>a1332@gmail.com</ermail_user>
+            <phone_user>20222442223</phone_user>
+            <password_user>1121</password_user>
+            
+        </login_users>
+        <login_users id_user="7">
+            <name_user>nguyen van ddda</name_user>
+            <ermail_user>a122@gmail.com</ermail_user>
+            <phone_user>20222244423</phone_user>
+            <password_user>1121</password_user>
+        </login_users>
+         <login_users id_user="8">
+            <name_user>nguyen van ggga</name_user>
+            <ermail_user>a33221@gmail.com</ermail_user>
+            <phone_user>202255522223</phone_user>
+            <password_user>1121</password_user>
+        </login_users>
+         <login_users id_user="9">
+            <name_user>nguyen van hhhha</name_user>
+            <ermail_user>a144@gmail.com</ermail_user>
+            <phone_user>20442222223</phone_user>
+            <password_user>1121</password_user>
+        </login_users>
+         <login_users id_user="10">
+           <name_user>nguyen van a</name_user>
+            <ermail_user>a551@gmail.com</ermail_user>
+            <phone_user>20266222223</phone_user>
+            <password_user>1121</password_user>
+        </login_users>
+    </login_user>
+class 
+    <login_doctor>
+       <login_doctors id_doctor="010">
+           <name_doctor>nguyen van a</name_doctor>
+           <department>khoa noi</department>
+           <phone_doctor>20266222223</phone_doctor>
+            <ermail_doctor>a551@gmail.com</ermail_doctor>     
+            <password_doctor>1121</password_doctor>
+        </login_doctors>
+
+        <login_doctors id_doctor="006">
+           <name_doctor>nguyen van a</name_doctor>
+           <department>khoa noi</department>
+           <phone_doctor>20266222223</phone_doctor>
+            <ermail_doctor>a551@gmail.com</ermail_doctor>     
+            <password_doctor>1121</password_doctor>
+        </login_doctors>
+
+        <login_doctors id_doctor="007">
+           <name_doctor>nguyen van a</name_doctor>
+           <department>khoa noi</department>
+           <phone_doctor>20266222223</phone_doctor>
+            <ermail_doctor>a551@gmail.com</ermail_doctor>     
+            <password_doctor>1121</password_doctor>
+        </login_doctors>
+
+        <login_doctors id_doctor="008">
+           <name_doctor>nguyen van a</name_doctor>
+           <department>khoa noi</department>
+           <phone_doctor>20266222223</phone_doctor>
+            <ermail_doctor>a551@gmail.com</ermail_doctor>     
+            <password_doctor>1121</password_doctor>
+        </login_doctors>
+
+    </login_doctor>
+
+    <list_clinic>
+
+        <list_clinics id_clinic="1">
+            <name_clinic>1</name_clinic>
+            <login_doctor_name_docters>
+                <login_doctor_name_docter>nguyen van a</login_doctor_name_docter>
+            </login_doctor_name_docters>
+            <login_doctor_departments>
+                <login_doctor_department> khoa noi</login_doctor_department> 
+            </login_doctor_departments>
+            <hospital_bills>100000</hospital_bills>
+        </list_clinics>
+    
+    <list_clinics id_clinic="2">
+            <name_clinic>2</name_clinic>
+            <login_doctor_name_docters>
+                <login_doctor_name_docter>nguyen van b</login_doctor_name_docter>
+            </login_doctor_name_docters>
+            <login_doctor_departments>
+                <login_doctor_department> khoa ngoai</login_doctor_department> 
+            </login_doctor_departments>
+            <hospital_bills>100000</hospital_bills>
+        </list_clinics>   
+    </list_clinic>
+
+    <register_clinic>
+        <register_clinics>
+        <login_users_id_user>6</login_users_id_user>
+            <list_clinics_id_clinic>2</list_clinics_id_clinic>       
+        </register_clinics>            
+    </register_clinic>
+    
+</library>

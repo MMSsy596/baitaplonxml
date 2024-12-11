@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registrations>
+  <registration id="1">
+    <user>
+      <name>nguyen van bbvqq</name>
+      <email>a1@gmail.com</email>
+      <phone>112112222</phone>
+    </user>
+    <clinic>
+      <name>1</name>
+      <doctor>nguyen van hiep</doctor>
+      <department>khoa noi, khoa ngoai</department>
+      <email/>
+      <hospital_bills>100000</hospital_bills>
+    </clinic>
+  </registration>
+  <registration id="2">
+    <user>
+      <name>nguyen van bbvqq</name>
+      <email>a1@gmail.com</email>
+      <phone>112112222</phone>
+    </user>
+    <clinic>
+      <name>h2</name>
+      <doctor>nguyen van hiep</doctor>
+      <department>khoa noi, khoa ngoai</department>
+      <email/>
+      <hospital_bills>852</hospital_bills>
+    </clinic>
+  </registration>
+  <registration id="3">
+    <user>
+      <name>le hoang c</name>
+      <email>c3@gmail.com</email>
+      <phone>123456789</phone>
+    </user>
+    <clinic>
+      <name>h2</name>
+      <doctor>nguyen van hiep</doctor>
+      <department>khoa noi, khoa ngoai</department>
+      <email/>
+      <hospital_bills>852</hospital_bills>
+    </clinic>
+  </registration>
+  <registration id="4">
+    <user>
+      <name>vo thi e</name>
+      <email>e5@gmail.com</email>
+      <phone>123123123</phone>
+    </user>
+    <clinic>
+      <name>1</name>
+      <doctor>nguyen van hiep</doctor>
+      <department>khoa noi, khoa ngoai</department>
+      <email/>
+      <hospital_bills>100000</hospital_bills>
+    </clinic>
+  </registration>
+  <registration id="7">
+    <user>
+      <name>vietsetme</name>
+      <email>nguyenpho44544@gmail.com</email>
+      <phone>112211111</phone>
+    </user>
+    <clinic>
+      <name>h3</name>
+      <doctor>a</doctor>
+      <department>a</department>
+      <email/>
+      <hospital_bills>44444</hospital_bills>
+    </clinic>
+  </registration>
+  <registration id="9">
+    <user>
+      <name>vietsetme</name>
+      <email>nguyenpho44544@gmail.com</email>
+      <phone>112211111</phone>
+    </user>
+    <clinic>
+      <name>10</name>
+      <doctor>sssa</doctor>
+      <department>sádsds</department>
+      <email>s@gmail.com</email>
+      <hospital_bills>2345</hospital_bills>
+    </clinic>
+  </registration>
+  <registration id="10">
+    <user>
+      <name>vietsetme</name>
+      <email>nguyenpho44544@gmail.com</email>
+      <phone>112211111</phone>
+    </user>
+    <clinic>
+      <name>9</name>
+      <doctor>sssa</doctor>
+      <department>sádsds</department>
+      <email>s@gmail.com</email>
+      <hospital_bills>1234</hospital_bills>
+    </clinic>
+  </registration>
+  <registration id="11">
+    <user>
+      <name>nguyen van bbvqq</name>
+      <email>a1@gmail.com</email>
+      <phone>112112222</phone>
+    </user>
+    <clinic>
+      <name>10</name>
+      <doctor>sssa</doctor>
+      <department>sádsds</department>
+      <email>s@gmail.com</email>
+      <hospital_bills>2345</hospital_bills>
+    </clinic>
+  </registration>
+  <registration id="13">
+    <user>
+      <name>haipd</name>
+      <email>haidp@gmail.com</email>
+      <phone>395037600</phone>
+    </user>
+    <clinic>
+      <name>9</name>
+      <doctor>sssa</doctor>
+      <department>sádsds</department>
+      <email>s@gmail.com</email>
+      <hospital_bills>1234</hospital_bills>
+    </clinic>
+  </registration>
+  <registration id="14">
+    <user>
+      <name>haipd</name>
+      <email>haidp@gmail.com</email>
+      <phone>395037600</phone>
+    </user>
+    <clinic>
+      <name>6</name>
+      <doctor>s</doctor>
+      <department>s</department>
+      <email/>
+      <hospital_bills>22222</hospital_bills>
+    </clinic>
+  </registration>
+  <registration id="15">
+    <user>
+      <name>haipd</name>
+      <email>haidp@gmail.com</email>
+      <phone>395037600</phone>
+    </user>
+    <clinic>
+      <name>1</name>
+      <doctor>nguyen van hiep</doctor>
+      <department>khoa noi, khoa ngoai</department>
+      <email/>
+      <hospital_bills>100000</hospital_bills>
+    </clinic>
+  </registration>
+  <registration id="16">
+    <user>
+      <name>Phạm Đức Hải</name>
+      <email>haidp@gmail.coma</email>
+      <phone>395037600</phone>
+    </user>
+    <clinic>
+      <name>1</name>
+      <doctor>s</doctor>
+      <department>s</department>
+      <email/>
+      <hospital_bills>111111</hospital_bills>
+    </clinic>
+  </registration>
+</registrations>
